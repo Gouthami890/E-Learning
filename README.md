@@ -21,3 +21,7 @@ This web-based application is designed to help students and developers access ed
 The platform displays a list of available courses along with animated progress bars, giving users a visual representation of their completion status. A dedicated progress tracker provides insights into completed and upcoming courses, making it easy to stay on track.
 
 With intuitive navigation and clean design, this project serves as a solid foundation for building more advanced learning management systems*
+
+*OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/7db795b6-36d3-4823-92c5-6fab47001751)
