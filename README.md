@@ -25,3 +25,5 @@ With intuitive navigation and clean design, this project serves as a solid found
 *OUTPUT*
 
 ![Image](https://github.com/user-attachments/assets/7db795b6-36d3-4823-92c5-6fab47001751)
+![Image](https://github.com/user-attachments/assets/0f502014-811a-4a73-a2dd-aa75b887e5c1)
+![Image](https://github.com/user-attachments/assets/d0e77d24-25ed-4fec-a753-6446f2186954)
